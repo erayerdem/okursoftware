@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![giphy](https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 <!--
 **okursoftware/okursoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
